@@ -1,4 +1,4 @@
-name := "kafka-elasticsearch-stories"
+name := "kafka-mongo-stories"
 
 version := "0.1"
 
